@@ -19,7 +19,7 @@ At its core:
 Since React only creates a structure of elements and doesn’t deal with how they’re shown:
 
 * You can use **React Native** to render on mobile apps.
-* You can use **custom libraries** to render on desktops (like Atom).
+* You can use **custom libraries** to render on desktops (like Electron).
 * You can also build your own renderers to display content wherever you want.
 
 ## Why is it called React?
